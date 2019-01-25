@@ -4,7 +4,7 @@ class ImageComponent extends React.Component {
     render() {
         return (
             <div>
-                <div class="card-deck">
+                {/* <div class="card-deck">
                     <div class="card">
                         <img src="images/India-Taj-Mahal.jpg" class="card-img-top" alt="..."></img>
                         <div class="card-body">
@@ -16,7 +16,7 @@ class ImageComponent extends React.Component {
                             <small class="text-muted">Last updated 3 mins ago</small>
                         </div>
                     </div>
-                    {/* <div class="card">
+                    /* <div class="card">
                         <img src="images/Mysore_palace.jpg" class="card-img-top" alt="..."></img>
                         <div class="card-body">
                             <h5 class="card-title">Mysore Palace</h5>
@@ -35,8 +35,8 @@ class ImageComponent extends React.Component {
                         <div class="card-footer">
                             <small class="text-muted">Last updated 3 mins ago</small>
                         </div>
-                    </div> */}
-                </div>
+                    </div> 
+                </div> */}
             </div>
         );
     }
