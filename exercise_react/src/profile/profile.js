@@ -15,7 +15,7 @@ class ProfileData extends React.Component {
                             <input type="text" class="form-control" placeholder="Username" aria-label="Username" aria-describedby="addon-wrapping"></input>
                         </div>
                         <div class="input-group">
-                            <div class="input-group-append" id="button-addon4">
+                            <div class="input-group-append" id="button-addon4" style={{ float: 'left', paddingLeft: '870px' }} >
                                 <button class="btn btn-outline-secondary" type="button">Followers</button>
                                 <button class="btn btn-outline-secondary" type="button">Following</button>
                             </div>
